@@ -4,7 +4,7 @@ Content: Bubble sort
 Date: 2019/11/13
 **************************/
 #include "bubblesort.h"
-
+/* this function have some new things */
 using namespace std;
 BubbleSort::BubbleSort(int Ord):SortFunction(Ord) {}
 void BubbleSort::SortFunction_Sort(void)
