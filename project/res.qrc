@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>GTBL.dat</file>
+        <file>timg.jpg</file>
+        <file>tb2.jpg</file>
+        <file>timg (2).jpg</file>
+    </qresource>
+    <qresource prefix="/new/prefix1">
+        <file>read.png</file>
+        <file>renew.png</file>
+        <file>serch.png</file>
+        <file>sort.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>GTB1L.dat</file>
+        <file>GTBL2.dat</file>
+    </qresource>
+</RCC>
